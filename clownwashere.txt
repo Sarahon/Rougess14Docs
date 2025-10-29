@@ -1,0 +1,32 @@
+[color=DarkOrange][mono]  ▄████▄        ▄█████▄
+ ███████████████████████
+█████████       █████████
+████████  [color=Yellow]█[/color]   [color=Yellow]█[/color]  ████████
+ ███████ [color=Yellow]█[/color][color=MediumBlue]█[/color][color=Yellow]█ █[/color][color=MediumBlue]█[/color][color=Yellow]█[/color] ███████
+  ▀████   [color=Yellow]█[/color][color=LightCoral]█[/color][color=Red]▄[/color][color=LightCoral]█[/color][color=Yellow]█[/color]   ████▀
+      ▀█▄   [color=LightCoral]█[/color]   ▄█▀
+        ▀█▄▄▄▄▄█▀[/mono][/color] clown was here
+[color=DarkOrange][mono]  ▄████▄        ▄█████▄
+ ███████████████████████
+█████████       █████████
+████████  [color=Yellow]█[/color]   [color=Yellow]█[/color]  ████████
+ ███████ [color=Yellow]█[/color][color=MediumBlue]█[/color][color=Yellow]█ █[/color][color=MediumBlue]█[/color][color=Yellow]█[/color] ███████
+  ▀████   [color=Yellow]█[/color][color=LightCoral]█[/color][color=Red]▄[/color][color=LightCoral]█[/color][color=Yellow]█[/color]   ████▀
+      ▀█▄   [color=LightCoral]█[/color]   ▄█▀
+        ▀█▄▄▄▄▄█▀[/mono][/color] clown was here
+[color=DarkOrange][mono]  ▄████▄        ▄█████▄
+ ███████████████████████
+█████████       █████████
+████████  [color=Yellow]█[/color]   [color=Yellow]█[/color]  ████████
+ ███████ [color=Yellow]█[/color][color=MediumBlue]█[/color][color=Yellow]█ █[/color][color=MediumBlue]█[/color][color=Yellow]█[/color] ███████
+  ▀████   [color=Yellow]█[/color][color=LightCoral]█[/color][color=Red]▄[/color][color=LightCoral]█[/color][color=Yellow]█[/color]   ████▀
+      ▀█▄   [color=LightCoral]█[/color]   ▄█▀
+        ▀█▄▄▄▄▄█▀[/mono][/color] clown was here
+[color=DarkOrange][mono]  ▄████▄        ▄█████▄
+ ███████████████████████
+█████████       █████████
+████████  [color=Yellow]█[/color]   [color=Yellow]█[/color]  ████████
+ ███████ [color=Yellow]█[/color][color=MediumBlue]█[/color][color=Yellow]█ █[/color][color=MediumBlue]█[/color][color=Yellow]█[/color] ███████
+  ▀████   [color=Yellow]█[/color][color=LightCoral]█[/color][color=Red]▄[/color][color=LightCoral]█[/color][color=Yellow]█[/color]   ████▀
+      ▀█▄   [color=LightCoral]█[/color]   ▄█▀
+        ▀█▄▄▄▄▄█▀[/mono][/color] clown was here
